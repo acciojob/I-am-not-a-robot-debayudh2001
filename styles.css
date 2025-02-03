@@ -38,3 +38,7 @@ p {
 button {
   margin: 20px;
 }
+
+img:hover{
+	border: 5px solid blue;
+}
